@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # My Personal Porfolio
 
 Check out the live version here:

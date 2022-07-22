@@ -35,7 +35,7 @@ export default {
 					liveLink: 'https://whale-animation.netlify.app/',
 					codeLink:
 						'https://github.com/sawyer1776/whale-animation',
-					imgSrc: '../../img/whale-animation.66a42287.png',
+					imgSrc: '../../img/whale-animation.png',
 				},
 				crypto: {
 					id: 2,
