@@ -9,16 +9,16 @@
 			data-netlify-honeypot="bot-field"
 			netlify
 		>
+			<input type="hidden" name="contact" value="contact" />
+
+			<input type="name" placeholder="Name" name="Name" />
 			<input
-				type="hidden"
-				name="form-name"
-				value="contact"
+				type="email"
+				placeholder="Email"
+				name="Email"
 			/>
-			<label for="Name">Name</label>
-			<input type="name" placeholder="Name" id="Name" />
-			<input type="email" placeholder="Email" id="Email" />
 			<input
-				id="message"
+				name="message"
 				class="message"
 				type="text"
 				placeholder="Message"
