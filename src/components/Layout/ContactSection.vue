@@ -11,7 +11,7 @@
 			<input
 				type="hidden"
 				name="form-name"
-				value="ask-question"
+				value="contact"
 			/>
 			<input type="name" placeholder="Name" id="Name" />
 			<input type="email" placeholder="Email" id="Email" />
