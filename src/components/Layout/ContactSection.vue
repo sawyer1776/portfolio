@@ -14,6 +14,7 @@
 				name="form-name"
 				value="contact"
 			/>
+			<label for="Name">Name</label>
 			<input type="name" placeholder="Name" id="Name" />
 			<input type="email" placeholder="Email" id="Email" />
 			<input
