@@ -22,6 +22,7 @@
 				type="text"
 				placeholder="Message"
 			/>
+			<button type="submit">send</button>
 			<button-item
 				type="submit"
 				class="button"
