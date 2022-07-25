@@ -52,7 +52,7 @@ export default {
 					liveLink: 'https://cryptoataglance.netlify.app/',
 					codeLink:
 						'https://github.com/sawyer1776/cryptoataglance',
-					imgSrc: '../../img/crypto-tracker.ea815fa3.png',
+					imgSrc: '../../img/crypto-tracker.png',
 				},
 
 				cutlist: {
@@ -66,8 +66,7 @@ export default {
 						'https://cutlist-optimizer.netlify.app/',
 					codeLink:
 						'https://github.com/sawyer1776/cutlist-optimizer',
-					imgSrc:
-						'../../img/cutlist-optimizer.cc0f95cc.png',
+					imgSrc: '../../img/cutlist-optimizer.png',
 				},
 				slider: {
 					id: 4,
@@ -80,8 +79,7 @@ export default {
 						'https://physical-ad-slider.netlify.app/',
 					codeLink:
 						'https://github.com/sawyer1776/physical-ad-slider',
-					imgSrc:
-						'../../img/cutlist-optimizer.cc0f95cc.png',
+					imgSrc: '../../img/cutlist-optimizer.png',
 				},
 			},
 		};

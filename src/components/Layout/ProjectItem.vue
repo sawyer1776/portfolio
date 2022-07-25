@@ -51,6 +51,12 @@ export default {
 		'codeLink',
 		'imgSrc',
 	],
+	methods: {
+		getImage() {
+			console.log(this.imgSrc);
+			return require(this.imgSrc);
+		},
+	},
 };
 </script>
 
