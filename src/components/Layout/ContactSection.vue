@@ -4,9 +4,10 @@
 		<form
 			name="contact"
 			method="post"
-			action="submit"
+			action=""
 			data-netlify="true"
 			data-netlify-honeypot="bot-field"
+			netlify
 		>
 			<input
 				type="hidden"
