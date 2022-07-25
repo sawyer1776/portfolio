@@ -7,8 +7,13 @@
 			action=""
 			data-netlify="true"
 			data-netlify-honeypot="bot-field"
+			netlify
 		>
-			<input type="hidden" name="contact" value="contact" />
+			<input
+				type="hidden"
+				name="form-name"
+				value="contact"
+			/>
 
 			<input type="name" placeholder="Name" name="Name" />
 			<input
