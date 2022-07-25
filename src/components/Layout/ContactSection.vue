@@ -3,6 +3,7 @@
 		<h2>Contact</h2>
 		<form
 			name="contact"
+			method="post"
 			data-netlify="true"
 			data-netlify-honeypot="bot-field"
 			netlify
