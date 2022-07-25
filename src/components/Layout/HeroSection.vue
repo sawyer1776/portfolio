@@ -1,5 +1,5 @@
 <template>
-	<section>
+	<section id="hero-section">
 		<div>
 			<h1>Hi, I'm <span>Clay Gibson</span></h1>
 			<h2>A Front End Developer</h2>
@@ -17,7 +17,7 @@
 				></button-item>
 
 				<button-item
-					title="Resume"
+					title="About"
 					href="#resume-section"
 				></button-item>
 

@@ -1,8 +1,8 @@
 <template>
 	<section>
-		<div>
+		<a href="#hero-section">
 			<ion-icon class="up" name="chevron-up"></ion-icon>
-		</div>
+		</a>
 		<ul>
 			<a
 				href="https://www.linkedin.com/in/clay-gibson-dev/"

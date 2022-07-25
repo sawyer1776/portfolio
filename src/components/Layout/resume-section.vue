@@ -1,6 +1,6 @@
 <template>
 	<section>
-		<h2>About Me</h2>
+		<h2>About</h2>
 		<p>
 			I am a front end developer with a desire to solve real
 			world problems with technology. A US army veteran, I
