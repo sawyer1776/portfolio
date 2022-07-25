@@ -1,13 +1,7 @@
 <template>
 	<section>
 		<h2>Contact</h2>
-		<form
-			name="contact"
-			method="POST"
-			data-netlify="true"
-			data-netlify-honeypot="bot-field"
-			netlify
-		>
+		<form name="contact" netlify>
 			<input
 				type="hidden"
 				name="form-name"
