@@ -1,6 +1,6 @@
 <template>
-	<section id="skills-section">
-		<h2>My Skills</h2>
+	<section>
+		<h2>Skills</h2>
 		<ul>
 			<li>
 				<img
@@ -52,6 +52,7 @@
 				<h3>Git</h3>
 			</li>
 		</ul>
+		<div id="projects-section"></div>
 	</section>
 </template>
 

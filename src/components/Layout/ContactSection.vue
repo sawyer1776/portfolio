@@ -1,7 +1,7 @@
 <template>
-	<section id="contact-section">
+	<section>
 		<h2>Contact</h2>
-		<form action="submit">
+		<form name="contact" netlify action="submit">
 			<input type="name" placeholder="Name" id="Name" />
 			<input type="email" placeholder="Email" id="Email" />
 			<input
@@ -11,6 +11,7 @@
 				placeholder="Message"
 			/>
 			<button-item
+				type="submit"
 				class="button"
 				color="alt"
 				title="Submit"

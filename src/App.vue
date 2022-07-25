@@ -5,6 +5,7 @@
 	<projects-section></projects-section>
 	<resume-section></resume-section>
 	<contact-section></contact-section>
+	<footer-section></footer-section>
 </template>
 
 <script>
@@ -14,6 +15,7 @@ import HeroSection from './components/Layout/HeroSection.vue';
 import ProjectsSection from './components/Layout/ProjectsSection.vue';
 import ResumeSection from './components/Layout/resume-section.vue';
 import SkillsSection from './components/Layout/SkillsSection.vue';
+import FooterSection from './components/Layout/FooterSection.vue';
 
 export default {
 	components: {
@@ -23,6 +25,7 @@ export default {
 		ProjectsSection,
 		ResumeSection,
 		ContactSection,
+		FooterSection,
 	},
 	name: 'App',
 	methods: {},

@@ -1,5 +1,5 @@
 <template>
-	<section id="projects-section">
+	<section>
 		<h2>Projects</h2>
 		<ul>
 			<project-item
@@ -14,6 +14,7 @@
 				:imgSrc="project.imgSrc"
 			></project-item>
 		</ul>
+		<div id="resume-section"></div>
 	</section>
 </template>
 

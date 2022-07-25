@@ -15,7 +15,7 @@
 			></button-item>
 
 			<button-item
-				title="Resume"
+				title="About"
 				href="#resume-section"
 				class="small invert"
 			></button-item>
@@ -25,6 +25,12 @@
 				href="#contact-section"
 				class="small invert"
 			></button-item>
+			<a
+				target="_blank"
+				href="https://drive.google.com/file/d/1MnylCKoO67c7qAaA7sCearCyR-XUsX3-/view?usp=sharing"
+			>
+				<ion-icon name="document-sharp"></ion-icon>
+			</a>
 		</ul>
 	</nav>
 </template>
@@ -44,10 +50,22 @@ nav {
 	display: flex;
 	justify-content: flex-end;
 	background-color: var(--color-primary);
+	z-index: 999;
 }
 ul {
 	list-style: none;
 	display: flex;
 	gap: 3rem;
+}
+
+a {
+	color: white;
+	font-size: var(--font-s-6);
+	transition: all 200ms;
+}
+
+a:hover,
+a:active {
+	transform: translateY(-0.5rem);
 }
 </style>

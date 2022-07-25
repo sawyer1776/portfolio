@@ -32,6 +32,10 @@
 		</div>
 		<div class="img-side">
 			<img :src="imgSrc" />
+			<div @click="playYt()" class="background">
+				<ion-icon name="logo-youtube"></ion-icon>
+			</div>
+
 			<!-- <p>subtext here</p> -->
 		</div>
 	</li>
@@ -52,9 +56,8 @@ export default {
 		'imgSrc',
 	],
 	methods: {
-		getImage() {
-			console.log(this.imgSrc);
-			return require(this.imgSrc);
+		playYt(id) {
+			console.log(id);
 		},
 	},
 };
@@ -109,5 +112,38 @@ img {
 	max-width: 50vw;
 	box-shadow: 0.5rem 0.5rem 1.5rem 0.25rem
 		rgba(0, 0, 0, 0.15);
+}
+.img-side {
+	position: relative;
+	height: fit-content;
+}
+
+.background {
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	position: absolute;
+	background-color: rgba(0, 0, 0, 0.25);
+
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	opacity: 0%;
+	transition: opacity 250ms;
+}
+
+ion-icon {
+	font-size: var(--font-s-9);
+	color: white;
+}
+.background:hover,
+.background:active {
+	cursor: pointer;
+	opacity: 100%;
+}
+
+.visible {
+	opacity: 100%;
 }
 </style>

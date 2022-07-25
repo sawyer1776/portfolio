@@ -1,5 +1,5 @@
 <template>
-	<section id="resume-section">
+	<section>
 		<h2>About Me</h2>
 		<p>
 			I am a front end developer with a desire to solve real
@@ -18,13 +18,15 @@
 			<button-item
 				color="alt"
 				title="Resume"
-				href="#"
+				target="_blank"
+				href="https://drive.google.com/file/d/1MnylCKoO67c7qAaA7sCearCyR-XUsX3-/view?usp=sharing"
 			></button-item>
 			<button-item
 				title="Contact"
 				href="#contact-section"
 			></button-item>
 		</div>
+		<div id="contact-section"></div>
 	</section>
 </template>
 

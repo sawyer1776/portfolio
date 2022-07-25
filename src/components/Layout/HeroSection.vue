@@ -26,6 +26,7 @@
 					href="#contact-section"
 				></button-item>
 			</ul>
+			<div id="skills-section"></div>
 		</div>
 	</section>
 </template>
