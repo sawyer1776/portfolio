@@ -4,7 +4,6 @@
 		<form
 			name="contact"
 			method="POST"
-			action=""
 			data-netlify="true"
 			data-netlify-honeypot="bot-field"
 			netlify
@@ -15,17 +14,27 @@
 				value="contact"
 			/>
 
-			<input type="name" placeholder="Name" name="Name" />
+			<input
+				type="name"
+				placeholder="Name"
+				name="name"
+				id="name"
+				required
+			/>
 			<input
 				type="email"
 				placeholder="Email"
-				name="Email"
+				name="email"
+				id="email"
+				required
 			/>
 			<input
 				name="message"
 				class="message"
 				type="text"
 				placeholder="Message"
+				id="message"
+				required
 			/>
 			<button type="submit">send</button>
 			<button-item
