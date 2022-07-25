@@ -1,7 +1,18 @@
 <template>
 	<section>
 		<h2>Contact</h2>
-		<form name="contact" netlify action="submit">
+		<form
+			name="contact"
+			method="post"
+			action="submit"
+			data-netlify="true"
+			data-netlify-honeypot="bot-field"
+		>
+			<input
+				type="hidden"
+				name="form-name"
+				value="ask-question"
+			/>
 			<input type="name" placeholder="Name" id="Name" />
 			<input type="email" placeholder="Email" id="Email" />
 			<input
