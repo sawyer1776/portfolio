@@ -3,34 +3,52 @@
 		<h2>My Skills</h2>
 		<ul>
 			<li>
-				<img src="../../img/html.png" alt="HTML 5 logo" />
+				<img
+					src="../../../public/img/html.png"
+					alt="HTML 5 logo"
+				/>
 				<h3>HTML 5</h3>
 			</li>
 			<li>
-				<img src="../../img/css.png" alt="CSS logo" />
+				<img
+					src="../../../public/img/css.png"
+					alt="CSS logo"
+				/>
 				<h3>CSS 3</h3>
 			</li>
 			<li>
 				<img
-					src="../../img/java-script.png"
+					src="../../../public/img/java-script.png"
 					alt="Java Script Logo"
 				/>
 				<h3>JavaScript</h3>
 			</li>
 			<li>
-				<img src="../../img/vue-js.png" alt="Vue.js Logo" />
+				<img
+					src="../../../public/img/vue-js.png"
+					alt="Vue.js Logo"
+				/>
 				<h3>Vue</h3>
 			</li>
 			<li>
-				<img src="../../img/aws.png" alt="AWS Logo" />
+				<img
+					src="../../../public/img/aws.png"
+					alt="AWS Logo"
+				/>
 				<h3>AWS</h3>
 			</li>
 			<li>
-				<img src="../../img/react.png" alt="react Logo" />
+				<img
+					src="../../../public/img/react.png"
+					alt="react Logo"
+				/>
 				<h3>React</h3>
 			</li>
 			<li>
-				<img src="../../img/git-icon.png" alt="Git Logo" />
+				<img
+					src="../../../public/img/git-icon.png"
+					alt="Git Logo"
+				/>
 				<h3>Git</h3>
 			</li>
 		</ul>
