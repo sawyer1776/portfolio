@@ -69,19 +69,19 @@ export default {
 						'https://github.com/sawyer1776/cutlist-optimizer',
 					imgSrc: '../../img/cutlist-optimizer.png',
 				},
-				slider: {
-					id: 4,
-					title: 'Continuous Slider',
-					techs: ['JavaScript', 'HTML 5', 'CSS 3'],
-					paragraph:
-						'This app is built to run an infinite loop of images full screen.  Easily change the slide duration and transition time.  This was written for local use to run full screen ads.  Html is generated dynamically based on file names in the local folder.',
-					note: 'Note: Only built to run on Chrome, there will be errors on other browsers',
-					liveLink:
-						'https://physical-ad-slider.netlify.app/',
-					codeLink:
-						'https://github.com/sawyer1776/physical-ad-slider',
-					imgSrc: '../../img/cutlist-optimizer.png',
-				},
+				// slider: {
+				// 	id: 4,
+				// 	title: 'Continuous Slider',
+				// 	techs: ['JavaScript', 'HTML 5', 'CSS 3'],
+				// 	paragraph:
+				// 		'This app is built to run an infinite loop of images full screen.  Easily change the slide duration and transition time.  This was written for local use to run full screen ads.  Html is generated dynamically based on file names in the local folder.',
+				// 	note: 'Note: Only built to run on Chrome, there will be errors on other browsers',
+				// 	liveLink:
+				// 		'https://physical-ad-slider.netlify.app/',
+				// 	codeLink:
+				// 		'https://github.com/sawyer1776/physical-ad-slider',
+				// 	imgSrc: '../../img/cutlist-optimizer.png',
+				// },
 			},
 		};
 	},

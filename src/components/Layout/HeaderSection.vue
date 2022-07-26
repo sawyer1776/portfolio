@@ -68,4 +68,10 @@ a:hover,
 a:active {
 	transform: translateY(-0.5rem);
 }
+/* 750px */
+@media (max-width: 50em) {
+	nav {
+		display: none;
+	}
+}
 </style>

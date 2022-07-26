@@ -92,4 +92,34 @@ img {
 	object-fit: contain;
 	margin-bottom: 1rem;
 }
+/* 1000px */
+@media (max-width: 62.5em) {
+	img {
+		width: 6rem;
+		height: 9rem;
+	}
+	ul {
+		gap: 3rem;
+	}
+}
+@media (max-width: 53.125em) {
+	ul {
+		flex-wrap: wrap;
+		margin-left: 14rem;
+		margin-right: 14rem;
+	}
+}
+
+@media (max-width: 48.875em) {
+	ul {
+		margin-left: 4rem;
+		margin-right: 4rem;
+	}
+}
+@media (max-width: 33.75em) {
+	ul {
+		margin-left: 1rem;
+		margin-right: 1rem;
+	}
+}
 </style>

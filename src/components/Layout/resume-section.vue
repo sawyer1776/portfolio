@@ -55,4 +55,24 @@ p {
 	line-height: 1.5;
 	font-size: var(--font-s-4);
 }
+/* 850px */
+@media (max-width: 53.125em) {
+	section {
+		max-width: 100vw;
+	}
+	p {
+		max-width: 60rem;
+		line-height: 1.5;
+		font-size: var(--font-s-5);
+		padding: 1rem;
+	}
+}
+
+@media (max-width: 18.75em) {
+	p {
+		line-height: 1.5;
+		font-size: var(--font-s-4);
+		padding: 0.25rem;
+	}
+}
 </style>

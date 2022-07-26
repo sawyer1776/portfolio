@@ -55,6 +55,8 @@ body {
 }
 
 section {
+	width: 100vw;
+
 	padding: 4rem;
 	justify-content: center;
 }
@@ -87,5 +89,19 @@ ul {
 	--font-s-8: 4.76rem;
 	--font-s-9: 5.75rem;
 	--font-s-10: 7rem;
+	--font-s-11: 9.5rem;
+	--font-s-12: 14rem;
+}
+@media (max-width: 53.125em) {
+	section {
+		padding: 2rem;
+	}
+}
+
+@media (max-width: 18.75em) {
+	h2 {
+		font-size: var(--font-s-5);
+		margin-bottom: 1.5rem;
+	}
 }
 </style>

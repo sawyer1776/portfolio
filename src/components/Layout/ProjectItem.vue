@@ -1,6 +1,6 @@
 <template>
 	<li class="project">
-		<div>
+		<div class="text-side">
 			<h3>{{ title }}</h3>
 			<ul>
 				<li
@@ -145,5 +145,45 @@ ion-icon {
 
 .visible {
 	opacity: 100%;
+}
+/* 1200px */
+@media (max-width: 75em) {
+	ul {
+		flex-wrap: wrap;
+	}
+}
+/* 850px */
+@media (max-width: 53.125em) {
+	.project {
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		max-width: 90vw;
+	}
+	img {
+		max-width: 100%;
+		box-shadow: 0.5rem 0.5rem 1.5rem 0.25rem
+			rgba(0, 0, 0, 0.15);
+	}
+	.text-side {
+		max-width: 90vw;
+	}
+	.paragraph {
+		font-size: var(--font-s-4);
+
+		max-width: 100%;
+	}
+
+	.note {
+		font-size: var(--font-s-3);
+	}
+
+	.img-side {
+		order: -1;
+	}
+	.project {
+		gap: 3rem;
+		margin: 0rem 0rem 4rem 0rem;
+	}
 }
 </style>

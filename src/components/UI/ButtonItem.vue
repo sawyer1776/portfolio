@@ -12,7 +12,7 @@ export default {
 
 <style scoped>
 a {
-	font-size: var(--font-s-6);
+	font-size: var(--font-s-7);
 
 	padding: 1rem 3rem;
 
@@ -32,7 +32,7 @@ a {
 }
 
 .small {
-	font-size: var(--font-s-4);
+	font-size: var(--font-s-5);
 	padding: 0.75rem 2rem;
 }
 .invert {
@@ -44,5 +44,38 @@ a:active,
 a:hover {
 	transform: translateY(-0.5rem);
 	cursor: pointer;
+}
+
+/* 1200px */
+@media (max-width: 75em) {
+	a {
+		font-size: var(--font-s-6);
+	}
+	.small {
+		font-size: var(--font-s-4);
+	}
+}
+/* 750px */
+@media (max-width: 50em) {
+	a {
+		font-size: var(--font-s-5);
+	}
+	.small {
+		font-size: var(--font-s-4);
+	}
+	.hero {
+		font-size: var(--font-s-4);
+		padding: 0.5rem 1.5rem;
+	}
+}
+@media (max-width: 18.75em) {
+	a {
+		font-size: var(--font-s-4);
+		padding: 0.75rem 2rem;
+	}
+	.small {
+		font-size: var(--font-s-3);
+		padding: 0.5rem 1rem;
+	}
 }
 </style>
