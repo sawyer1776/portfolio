@@ -19,7 +19,7 @@
 				color="alt"
 				title="Resume"
 				target="_blank"
-				href="https://drive.google.com/file/d/1OsXF0IH4VjHMD7sYT4Eho6VQOzs-CqyU/view?usp=sharing"
+				href="https://drive.google.com/file/d/1UuaXKc_ZWA1oXCXKtIGCEqzZ5h9k7NM6/view?usp=sharing"
 			></button-item>
 			<button-item
 				title="Contact"
