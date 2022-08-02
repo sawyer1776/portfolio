@@ -17,7 +17,7 @@
 			></a>
 
 			<a
-				href="https://drive.google.com/file/d/1MnylCKoO67c7qAaA7sCearCyR-XUsX3-/view?usp=sharing"
+				href="https://drive.google.com/file/d/1OsXF0IH4VjHMD7sYT4Eho6VQOzs-CqyU/view?usp=sharing"
 				target="_blank"
 				><ion-icon name="document-sharp"></ion-icon
 			></a>

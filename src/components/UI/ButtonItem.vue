@@ -40,12 +40,14 @@ a {
 	padding: 0.5rem 1rem;
 }
 
-a:active,
 a:hover {
-	transform: translateY(-0.5rem);
+	transform: scale(1.05);
 	cursor: pointer;
 }
 
+a:active {
+	transform: translateX(0.5rem);
+}
 /* 1200px */
 @media (max-width: 75em) {
 	a {

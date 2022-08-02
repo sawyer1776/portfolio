@@ -37,22 +37,13 @@
 				id="message"
 				required
 			/>
-			<button type="submit">send</button>
-			<button-item
-				type="submit"
-				class="button"
-				color="alt"
-				title="Submit"
-			/>
+			<button type="submit">Submit</button>
 		</form>
 	</section>
 </template>
 
 <script>
-import ButtonItem from '../UI/ButtonItem.vue';
-export default {
-	components: { ButtonItem },
-};
+export default {};
 </script>
 
 <style scoped>
@@ -73,9 +64,35 @@ input {
 	height: 15rem;
 	padding: 1rem 1rem 13rem 0.75rem;
 }
-.button {
+button {
 	max-width: fit-content;
 	align-self: center;
 	margin-top: 1rem;
+	padding: 1rem 3rem;
+
+	font-size: var(--font-s-7);
+
+	padding: 1rem 3rem;
+
+	transition: all 200ms;
+	text-decoration: none;
+
+	background-color: var(--color-primary);
+	border: none;
+	color: var(--wht);
+}
+
+button:hover {
+	transform: scale(1.05);
+	cursor: pointer;
+}
+
+button:active {
+	transform: translateX(0.5rem);
+}
+@media (max-width: 50em) {
+	button {
+		font-size: var(--font-s-5);
+	}
 }
 </style>

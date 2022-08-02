@@ -3,12 +3,12 @@
 		<h2>About</h2>
 		<p>
 			I am a front end developer with a desire to solve real
-			world problems with technology. A US army veteran, I
-			started out learning tech by deciding to get my
-			<strong> Amazon Web Services</strong> certified
-			solutions architect certification. I hit the books and
-			in less than three months was able to earn my
-			certification with no prior experience. I have been
+			world problems with technology. I started out learning
+			tech by deciding to get my
+			<strong> Amazon Web Services</strong>
+			Certified Solutions Architect certification. I hit the
+			books and in less than three months was able to earn
+			my certification with no prior experience. I have been
 			learning new technologies ever since. I want to use my
 			skills to make complicated technology easy to access
 			for everyone.
@@ -19,7 +19,7 @@
 				color="alt"
 				title="Resume"
 				target="_blank"
-				href="https://drive.google.com/file/d/1MnylCKoO67c7qAaA7sCearCyR-XUsX3-/view?usp=sharing"
+				href="https://drive.google.com/file/d/1OsXF0IH4VjHMD7sYT4Eho6VQOzs-CqyU/view?usp=sharing"
 			></button-item>
 			<button-item
 				title="Contact"

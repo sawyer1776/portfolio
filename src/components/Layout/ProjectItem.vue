@@ -32,9 +32,9 @@
 		</div>
 		<div class="img-side">
 			<img :src="imgSrc" />
-			<div @click="playYt()" class="background">
+			<!-- <div @click="playYt()" class="background">
 				<ion-icon name="logo-youtube"></ion-icon>
-			</div>
+			</div> -->
 
 			<!-- <p>subtext here</p> -->
 		</div>

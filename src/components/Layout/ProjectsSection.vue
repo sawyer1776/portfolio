@@ -31,8 +31,8 @@ export default {
 					title: 'Website for Whale Animation',
 					techs: ['JavaScript', 'HTML 5', 'CSS 3'],
 					paragraph:
-						'The official website for the studio Whale Animation. Built from scratch by me without libraries of frameworks. Custorm script generates the slider content dynamically from an object.',
-					note: 'Note: Mobile optimization coming soon, site is set to go live by the end of the month',
+						'Commissioned to build the official website for  the studio, Whale Animation.   Built from scratch without libraries or frameworks; this website features custom scripting to generate the projects section dynamically for easy maintainability.  Built with CSS, HTML, and JavaScript.',
+					note: 'Note: This site is set to go live August 15. current address is Netlify, but will change to custom domain when live.',
 					liveLink: 'https://whale-animation.netlify.app/',
 					codeLink:
 						'https://github.com/sawyer1776/whale-animation',
@@ -48,7 +48,7 @@ export default {
 						'Coinranking API',
 					],
 					paragraph:
-						'Track and sort cypto the changes in the crypto markets.  Each column can be sorted by the data inside it.  Select the timeframe you want to sort from.  Data is live from the Coinranking API ',
+						'Track and sort the changes in the crypto markets. Each column can be sorted by the data inside it. Selectable timeframes update the data to data from that period. Data is live from the Coinranking API.  Built with CSS, HTML, and JavaScript.',
 
 					liveLink: 'https://cryptoataglance.netlify.app/',
 					codeLink:
@@ -61,7 +61,7 @@ export default {
 					title: 'Cutlist Optimizer',
 					techs: ['Vue', 'JavaScript', 'HTML 5', 'CSS 3'],
 					paragraph:
-						'Built to help carpenters quickly and easily list the cuts needed for each size of material and calculate the total needed from each size of stock',
+						'Built to help carpenters quickly and easily list the cuts needed for each size of material and automatically calculate the total needed from each size of stock',
 
 					liveLink:
 						'https://cutlist-optimizer.netlify.app/',
