@@ -32,8 +32,9 @@ export default {
 					techs: ['JavaScript', 'HTML 5', 'CSS 3'],
 					paragraph:
 						'Commissioned to build the official website for  the studio, Whale Animation.   Built from scratch without libraries or frameworks; this website features custom scripting to generate the projects section dynamically for easy maintainability.  Built with CSS, HTML, and JavaScript.',
-					note: 'Note: This site is set to go live August 15. current address is Netlify, but will change to custom domain when live.',
-					liveLink: 'https://whale-animation.netlify.app/',
+
+					liveLink:
+						'https://www.whaleanimationstudios.com/',
 					codeLink:
 						'https://github.com/sawyer1776/whale-animation',
 					imgSrc: '../../img/whale-animation.png',
