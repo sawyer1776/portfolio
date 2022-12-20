@@ -90,6 +90,12 @@ export default {
 </script>
 
 <style scoped>
+ul {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
 h2 {
 	margin-bottom: 4rem;
 }

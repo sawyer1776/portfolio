@@ -68,6 +68,7 @@ export default {
 	display: flex;
 	gap: 4rem;
 	margin: 0rem 4rem 8rem 4rem;
+	width: fit-content;
 }
 h3 {
 	font-size: var(--font-s-5);
@@ -77,7 +78,9 @@ h3 {
 .paragraph {
 	font-size: var(--font-s-3);
 	margin-bottom: 2rem;
-	max-width: 40vw;
+	/* max-width: 40vw; */
+	width: 40vw;
+	max-width: 65rem;
 	line-height: 1.5;
 }
 .note {
@@ -109,7 +112,8 @@ ul {
 }
 
 img {
-	max-width: 50vw;
+	width: 50vw;
+	max-width: 170rem;
 	box-shadow: 0.5rem 0.5rem 1.5rem 0.25rem
 		rgba(0, 0, 0, 0.15);
 }
