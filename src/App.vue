@@ -45,6 +45,7 @@ html {
 }
 
 body {
+	justify-content: center;
 	overflow-x: hidden;
 	font-family: 'Roboto Slab', sans-serif;
 	line-height: 1;
@@ -56,6 +57,7 @@ body {
 
 section {
 	width: 100vw;
+	max-width: 200rem;
 
 	padding: 4rem;
 	justify-content: center;
