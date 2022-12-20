@@ -165,6 +165,7 @@ ion-icon {
 		max-width: 90vw;
 	}
 	img {
+		width: 100%;
 		max-width: 100%;
 		box-shadow: 0.5rem 0.5rem 1.5rem 0.25rem
 			rgba(0, 0, 0, 0.15);
@@ -175,7 +176,7 @@ ion-icon {
 	.paragraph {
 		font-size: var(--font-s-4);
 
-		max-width: 100%;
+		width: 100%;
 	}
 
 	.note {

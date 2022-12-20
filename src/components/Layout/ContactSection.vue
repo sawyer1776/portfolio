@@ -52,6 +52,7 @@ form {
 	flex-direction: column;
 
 	margin: 0 auto;
+	padding: 5px;
 	gap: 1rem;
 	max-width: 60rem;
 }

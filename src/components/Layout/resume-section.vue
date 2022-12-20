@@ -63,7 +63,7 @@ p {
 	p {
 		max-width: 60rem;
 		line-height: 1.5;
-		font-size: var(--font-s-5);
+		font-size: var(--font-s-4);
 		padding: 1rem;
 	}
 }
@@ -71,7 +71,7 @@ p {
 @media (max-width: 18.75em) {
 	p {
 		line-height: 1.5;
-		font-size: var(--font-s-4);
+		font-size: var(--font-s-3);
 		padding: 0.25rem;
 	}
 }
