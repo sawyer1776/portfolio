@@ -26,8 +26,25 @@ export default {
 	data() {
 		return {
 			projects: {
-				whale: {
+				local: {
 					id: 1,
+					title: 'Local Farms Application',
+					techs: [
+						'React',
+						'Pocketbase',
+						'CSS 3',
+						'REST API',
+					],
+					paragraph:
+						'Built to allow small farmers and backyard gardeners to quickly and easily list their produce for sale and allow buyers to connect with them to purchase locally grown produce. This applications features a simple in browser GUI that allows users to create and edit the database entries associated with their products and pages. Automatically generated custom web routes allow for an infinite number of products and producers that are all linkable. The code is modular highly reusable units that generate a page’s information from database API calls. React’s useContext() hook is used for sharing user authentication and basic user data throughout the application. Built with React.js, and Pocketbase. (site not yet live)',
+
+					liveLink: null,
+					codeLink:
+						'https://github.com/sawyer1776/local-food-app',
+					imgSrc: '../../img/local-farms.jpg',
+				},
+				whale: {
+					id: 2,
 					title: 'Website for Whale Animation',
 					techs: ['JavaScript', 'HTML 5', 'CSS 3'],
 					paragraph:
@@ -40,7 +57,7 @@ export default {
 					imgSrc: '../../img/whale-animation.png',
 				},
 				crypto: {
-					id: 2,
+					id: 3,
 					title: 'Crypto market tracker',
 					techs: [
 						'JavaScript',
@@ -58,7 +75,7 @@ export default {
 				},
 
 				cutlist: {
-					id: 3,
+					id: 4,
 					title: 'Cutlist Optimizer',
 					techs: ['Vue', 'JavaScript', 'HTML 5', 'CSS 3'],
 					paragraph:
