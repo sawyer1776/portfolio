@@ -38,8 +38,7 @@ export default {
 					paragraph:
 						'Built to allow small farmers and backyard gardeners to quickly and easily list their produce for sale and allow buyers to connect with them to purchase locally grown produce. This applications features a simple in browser GUI that allows users to create and edit the database entries associated with their products and pages. Automatically generated custom web routes allow for an infinite number of products and producers that are all linkable. The code is modular highly reusable units that generate a page’s information from database API calls. React’s useContext() hook is used for sharing user authentication and basic user data throughout the application. Built with React.js, and Pocketbase. (site not yet live)',
 
-					liveLink:
-						'http://167.71.242.254:40641/all-sellers',
+					liveLink: null,
 					codeLink:
 						'https://github.com/sawyer1776/local-food-app',
 					imgSrc: '../../img/local-farms.jpg',
@@ -105,8 +104,6 @@ export default {
 		};
 	},
 };
-
-
 </script>
 
 <style scoped>
