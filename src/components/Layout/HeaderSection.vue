@@ -27,7 +27,7 @@
 			></button-item>
 			<a
 				target="_blank"
-				href="https://drive.google.com/file/d/1UuaXKc_ZWA1oXCXKtIGCEqzZ5h9k7NM6/view?usp=sharing"
+				href="https://drive.google.com/file/d/1a8XMZm_Y-MhSHMLQLeZLpTP1altqbqIO/view?usp=sharing"
 			>
 				<ion-icon name="document-sharp"></ion-icon>
 			</a>
