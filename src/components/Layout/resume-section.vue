@@ -6,12 +6,12 @@
 			world problems with technology. I started out learning
 			tech by deciding to get my
 			<strong> Amazon Web Services</strong>
-			Certified Solutions Architect certification. I hit the
-			books and in less than three months was able to earn
-			my certification with no prior experience. I have been
-			learning new technologies ever since. I want to use my
-			skills to make complicated technology easy to access
-			for everyone.
+			Certified Solutions Architect certification. I was
+			quickly able to earn this certification through
+			focused self study. I have been learning new
+			technologies ever since. I want to use my skills to
+			make complicated technology easy to access for
+			everyone.
 		</p>
 
 		<div>
@@ -19,7 +19,7 @@
 				color="alt"
 				title="Resume"
 				target="_blank"
-				href="https://drive.google.com/file/d/1UuaXKc_ZWA1oXCXKtIGCEqzZ5h9k7NM6/view?usp=sharing"
+				href="https://drive.google.com/file/d/1a8XMZm_Y-MhSHMLQLeZLpTP1altqbqIO/view?usp=sharing"
 			></button-item>
 			<button-item
 				title="Contact"
