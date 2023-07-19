@@ -31,6 +31,7 @@ export default {
 					title: 'Local Farms Application',
 					techs: [
 						'React',
+						'Asynchronous JavaScript',
 						'Pocketbase',
 						'CSS 3',
 						'REST API',
@@ -49,7 +50,7 @@ export default {
 					title: 'Website for Whale Animation',
 					techs: ['JavaScript', 'HTML 5', 'CSS 3'],
 					paragraph:
-						'Commissioned to build the official website for  the studio, Whale Animation.   Built from scratch without libraries or frameworks; this website features custom scripting to generate the projects section dynamically for easy maintainability.  Built with CSS, HTML, and JavaScript.',
+						'Commissioned to build the official website for the studio, Whale Animation.   Built with CSS, HTML, and JavaScript to be a simple and elegant site that showcases the studio’s work.  JavaScript is used to dynamically generate the HTML for the project pages from a JS object for easy updates and maintaince.',
 
 					liveLink:
 						'https://www.whaleanimationstudios.com/',

@@ -8,10 +8,11 @@
 			<strong> Amazon Web Services</strong>
 			Certified Solutions Architect certification. I was
 			quickly able to earn this certification through
-			focused self study. I have been learning new
-			technologies ever since. I want to use my skills to
-			make complicated technology easy to access for
-			everyone.
+			focused self study. Since then I have been focused on
+			learning Front end skills focusing first on
+			JavaScript, HTML and CSS before diving into the world
+			of React. I want to use my skills to make complicated
+			technology easy to access for everyone.
 		</p>
 
 		<div>
@@ -19,7 +20,7 @@
 				color="alt"
 				title="Resume"
 				target="_blank"
-				href="https://drive.google.com/file/d/1a8XMZm_Y-MhSHMLQLeZLpTP1altqbqIO/view?usp=sharing"
+				href="https://drive.google.com/file/d/1OgXrpzoUIMpJ9tyxxtl0_gzelHitd1b9/view?usp=sharing"
 			></button-item>
 			<button-item
 				title="Contact"
