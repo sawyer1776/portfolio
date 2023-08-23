@@ -20,11 +20,7 @@
 				color="alt"
 				title="Resume"
 				target="_blank"
-				href="https://drive.google.com/file/d/1OgXrpzoUIMpJ9tyxxtl0_gzelHitd1b9/view?usp=sharing"
-			></button-item>
-			<button-item
-				title="Contact"
-				href="#contact-section"
+				href="https://drive.google.com/file/d/1sQp5Smi_IJ8BowvbNFm9rBf1kEFwqZxo/view?usp=sharing"
 			></button-item>
 		</div>
 		<div id="contact-section"></div>
